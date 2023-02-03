@@ -1,0 +1,52 @@
+﻿Rozpoczęto kompilację...
+1>FastUpToDate: Adding UpToDateCheckBuilt outputs: (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\obj\Debug\net5.0\ChallengeApp.dll' (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\bin\Debug\net5.0\ChallengeApp.dll' (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\obj\Debug\net5.0\ChallengeApp.pdb' (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\bin\Debug\net5.0\ChallengeApp.pdb' (ChallengeApp)
+1>FastUpToDate: Adding project file inputs: (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\ChallengeApp.csproj' (ChallengeApp)
+1>FastUpToDate: Adding newest import input: (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\ChallengeApp.csproj.user' (ChallengeApp)
+1>FastUpToDate: Adding Compile inputs: (ChallengeApp)
+1>FastUpToDate:     'C:\Challenge\src\ChallengeApp\Program.cs' (ChallengeApp)
+1>FastUpToDate: Input 'C:\Challenge\src\ChallengeApp\Program.cs' is newer (2023-02-03 18:51:26) than earliest output 'C:\Challenge\src\ChallengeApp\obj\Debug\net5.0\ChallengeApp.dll' (2023-02-03 18:49:53), not up to date. (ChallengeApp)
+1>FastUpToDate: Up to date check completed in 0,6 ms (ChallengeApp)
+1>------ Kompilacja rozpoczęta: Projekt: ChallengeApp, Konfiguracja: Debug Any CPU ------
+1>Kompilacja rozpoczęła się 2023-02-03 18:51:32.
+1>Element docelowy CoreCompile:
+1>    CSC : warning CS2002: Plik źródłowy „C:\Challenge\src\ChallengeApp\Program.cs” jest określony wiele razy
+1>    C:\Challenge\src\ChallengeApp\Student.cs(14,16,14,23): warning CS8618: Niedopuszczający wartości null element właściwość „Name” musi zawierać wartość inną niż null podczas kończenia działania konstruktora. Rozważ zadeklarowanie elementu właściwość jako dopuszczającego wartość null.
+1>    C:\Challenge\src\ChallengeApp\Program.cs(25,35,25,53): warning CS8600: Konwertowanie literału o wartości null lub możliwej wartości null na nienullowalny typ.
+1>    C:\Challenge\src\ChallengeApp\Program.cs(32,48,32,56): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „input” w „bool Regex.IsMatch(string input)”.
+1>    C:\Challenge\src\ChallengeApp\Program.cs(43,53,43,61): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „FullName” w „Student.Student(string FullName)”.
+1>    C:\Challenge\src\ChallengeApp\Program.cs(47,46,47,47): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „input” w „bool Regex.IsMatch(string input)”.
+1>    C:\Challenge\src\ChallengeApp\Program.cs(68,49,68,53): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „input” w „bool Regex.IsMatch(string input)”.
+1>    C:\Challenge\src\ChallengeApp\Program.cs(12,31,12,37): warning CS0649: Do pola „Program.result” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>    C:\Challenge\src\ChallengeApp\Program.cs(10,24,10,29): warning CS0649: Do pola „Program.grade” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>    C:\Challenge\src\ChallengeApp\Program.cs(11,20,11,23): warning CS0649: Do pola „Program.age” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>    C:\Challenge\src\ChallengeApp\Program.cs(9,24,9,28): warning CS0649: Do pola „Program.mark” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną null
+1>Wykonano kompilowanie elementu docelowego „CoreCompile” w projekcie „ChallengeApp.csproj”.
+1>Element docelowy CopyFilesToOutputDirectory:
+1>    ChallengeApp -> C:\Challenge\src\ChallengeApp\bin\Debug\net5.0\ChallengeApp.dll
+1>
+1>Kompilowanie projektu „ChallengeApp.csproj” wykonane.
+1>
+1>Kompilacja powiodła się.
+1>
+1>CSC : warning CS2002: Plik źródłowy „C:\Challenge\src\ChallengeApp\Program.cs” jest określony wiele razy
+1>C:\Challenge\src\ChallengeApp\Student.cs(14,16,14,23): warning CS8618: Niedopuszczający wartości null element właściwość „Name” musi zawierać wartość inną niż null podczas kończenia działania konstruktora. Rozważ zadeklarowanie elementu właściwość jako dopuszczającego wartość null.
+1>C:\Challenge\src\ChallengeApp\Program.cs(25,35,25,53): warning CS8600: Konwertowanie literału o wartości null lub możliwej wartości null na nienullowalny typ.
+1>C:\Challenge\src\ChallengeApp\Program.cs(32,48,32,56): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „input” w „bool Regex.IsMatch(string input)”.
+1>C:\Challenge\src\ChallengeApp\Program.cs(43,53,43,61): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „FullName” w „Student.Student(string FullName)”.
+1>C:\Challenge\src\ChallengeApp\Program.cs(47,46,47,47): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „input” w „bool Regex.IsMatch(string input)”.
+1>C:\Challenge\src\ChallengeApp\Program.cs(68,49,68,53): warning CS8604: Możliwy argument odwołania o wartości null dla parametru „input” w „bool Regex.IsMatch(string input)”.
+1>C:\Challenge\src\ChallengeApp\Program.cs(12,31,12,37): warning CS0649: Do pola „Program.result” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>C:\Challenge\src\ChallengeApp\Program.cs(10,24,10,29): warning CS0649: Do pola „Program.grade” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>C:\Challenge\src\ChallengeApp\Program.cs(11,20,11,23): warning CS0649: Do pola „Program.age” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną 0
+1>C:\Challenge\src\ChallengeApp\Program.cs(9,24,9,28): warning CS0649: Do pola „Program.mark” nigdy nie jest przypisywana wartość i będzie ono mieć zawsze wartość domyślną null
+1>    Ostrzeżenia: 11
+1>    Liczba błędów: 0
+1>
+1>Czas, który upłynął: 00:00:01.34
+========== Kompilacja: 1 zakończono powodzeniem, 0 zakończono niepowodzeniem, 0 zaktualizowano, 0 pominięto ==========
